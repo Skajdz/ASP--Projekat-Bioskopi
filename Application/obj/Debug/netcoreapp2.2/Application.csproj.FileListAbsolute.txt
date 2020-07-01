@@ -1,0 +1,9 @@
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Luka\Desktop\Ivanov Projekat\Project-master\Application\obj\Debug\netcoreapp2.2\Application.pdb
